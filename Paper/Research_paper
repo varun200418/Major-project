@@ -1,1 +1,3 @@
+I recently worked on a project report titled "EEG-Based Sleep Stage Classification Using Deep Learning." The motivation behind writing this paper was to explore how artificial intelligence and deep learning techniques can be applied in healthcare, particularly in analyzing sleep patterns and assisting in the diagnosis of sleep disorders.
 
+The most challenging concept to explain clearly was how EEG signals are processed and transformed into meaningful features that a deep learning model can use for sleep stage classification. Since EEG data is complex and often difficult for non-specialists to understand, I focused on simplifying the explanation of signal preprocessing, feature extraction, and the role of neural networks while maintaining technical accuracy.
